@@ -6,6 +6,8 @@ public class SimpleBloc extends MotherBloc {
     String strContent;
     int intContent;
 
+
+
     private void setPlacement(int x, int y){
         this.placement[0] = x;
         this.placement[1] = y;
